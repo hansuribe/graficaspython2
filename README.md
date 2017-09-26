@@ -2,6 +2,11 @@
 
 Demo for [`mpld3`](http://mpld3.github.io/).
 
+# Jupyter demo
+
+The Jupyer notebook demo can be seen [here](https://github.com/DanielAndreasen/mpld3-demo/blob/master/mpld3-notebook.ipynb)
+
+
 # Installation
 
 Install all dependencies with `pip install -r requirements.txt`.
